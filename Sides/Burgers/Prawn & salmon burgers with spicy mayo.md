@@ -1,6 +1,8 @@
 # Tags
 #PrawnSalmonBurgers #Healthy #Omega3Rich #Quick #Seafood #BBQ #SpicyMayo #FoodProcessor #ChilliSauce #SummerDishes
 # Info
+# Source
+https://www.bbcgoodfood.com/recipes/prawn-salmon-burgers-spicy-mayo
 ## Prep
 15 Minutes
 ## Cook

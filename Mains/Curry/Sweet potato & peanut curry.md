@@ -51,6 +51,6 @@ This tasty, budget-friendly vegan curry is perfect for an easy family dinner. Wi
 6. Serve with cooked rice, and if you want some crunch, sprinkle over a few dry roasted peanuts
 
 # Goes Well With
-Prawn & salmon burgers with spicy mayo
-Sausage sandwich with pesto
+[[Prawn & salmon burgers with spicy mayo]]
+Sausage sandwich with pesto mash
 Spinach & courgette lasagne

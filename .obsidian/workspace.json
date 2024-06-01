@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "52ceef605f951352",
+        "id": "aa71ed1046ae87d9",
         "type": "tabs",
         "children": [
           {
-            "id": "0efaf62e0fe75552",
+            "id": "15970a840c6e57da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
+                "file": "Snacks/Brownies/Classic Gooey Cadbury Bournville Brownies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52ab6d6b4f1d26f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
+                "file": "AI guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +115,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
-                "linksCollapsed": false,
+                "file": "AI guide.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md"
+                "file": "AI guide.md"
               }
             }
           }
@@ -148,12 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0efaf62e0fe75552",
+  "active": "52ab6d6b4f1d26f1",
   "lastOpenFiles": [
-    "Sides/Burgers",
+    "Sites.md",
+    "Substitute list.md",
+    "Tag Guide.md",
+    "Dinner/Sausages with pesto mash.md",
     "Mains/Curry/Sweet potato & peanut curry.md",
+    "AI guide.md",
+    "Snacks/Brownies/Classic Gooey Cadbury Bournville Brownies.md",
     "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
-    "Snacks/Brownies/CLASSIC GOOEY CADBURY BOURNVILLE BROWNIES.md",
+    "Sides/Burgers",
     "Mains/Curry",
     "Snacks/Cookies/Cadbury Chocolate Cookies.md",
     "01-06-2024.md",
@@ -162,11 +179,9 @@
     "Exported",
     "Mains/Pakoras/Cauliflower Pakoras.md",
     "28-05-2024.md",
-    "Sites.md",
     "Files/14-Allergens 16Nov21.pdf",
     "Dessert/Cinnamon Rolls.md",
     "Dessert/Chocolate Lasagna.md",
-    "Tag Guide.md",
     "Sides/Soup/Classic Minestrone.md",
     "Dessert",
     "_Templates/Untitled.md",
@@ -174,7 +189,6 @@
     "Snacks/Cookies/Peanut Butter Cookies.md",
     "Sides/Soup",
     "Snacks/Cookies/Oatmeal Cookies.md",
-    "Substitute list.md",
     "Files",
     "New folder",
     "Snacks/Cakes/Original Plum Torte.md",
@@ -184,9 +198,7 @@
     "Snacks/Coffee Cakes/Chocolate-Sour Cream Coffee Cake.md",
     "Snacks/Brownies/Chocolate Marshmallow Brownies.md",
     "Snacks/Crinkles/Chocolate Crinkles.md",
-    "Snacks/Crinkles/Citrus Crinkles.md",
     "Snacks/Crinkles",
-    "Dinner/Tofu",
     "Untitled 1.canvas"
   ]
 }
