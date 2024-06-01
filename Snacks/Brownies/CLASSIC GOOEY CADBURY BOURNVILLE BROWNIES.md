@@ -35,6 +35,12 @@
 ## Substitutions / Optional
 
 # Directions
+1. Preheat oven to 180°C, gas mark 4. Grease and line the base and sides of a 20 cm square cake tin with baking parchment
+2. Melt the chocolate and butter in a bowl over a pan of simmering water Cool slightly.
+3. Whisk the eggs and sugar until thick and creamy, pour over the chocolate mixture and fold in
+4. Sift in the flour and cocoa and fold in the nuts. Pour into the prepared tin, making sure it goes right into the corners and bake for 25-30 minutes. The top should be crusty with a slight wobble underneath
+5. Cool completely in the tin (can refrigerate overnight which aids cutting) and then cut into squares or triangles
+
 
 ## Alternative Recipes or implementations
 

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52ab6d6b4f1d26f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI guide.md",
+                "file": "Snacks/Brownies/Classic Gooey Cadbury Bournville Brownies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI guide.md",
+                "file": "Snacks/Brownies/Classic Gooey Cadbury Bournville Brownies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI guide.md"
+                "file": "Snacks/Brownies/Classic Gooey Cadbury Bournville Brownies.md"
               }
             }
           }
@@ -160,14 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52ab6d6b4f1d26f1",
+  "active": "15970a840c6e57da",
   "lastOpenFiles": [
+    "AI guide.md",
     "Sites.md",
     "Substitute list.md",
     "Tag Guide.md",
     "Dinner/Sausages with pesto mash.md",
     "Mains/Curry/Sweet potato & peanut curry.md",
-    "AI guide.md",
     "Snacks/Brownies/Classic Gooey Cadbury Bournville Brownies.md",
     "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
     "Sides/Burgers",
