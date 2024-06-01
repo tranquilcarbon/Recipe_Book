@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b20a7e22b418ffe8",
+        "id": "52ceef605f951352",
         "type": "tabs",
         "children": [
           {
-            "id": "6935a76e6cc362e1",
+            "id": "0efaf62e0fe75552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/Cookies/Classic Drop Cookies.md",
-                "mode": "preview",
+                "file": "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#cookie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/Cookies/Classic Drop Cookies.md",
+                "file": "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/Cookies/Classic Drop Cookies.md",
+                "file": "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/Cookies/Classic Drop Cookies.md"
+                "file": "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md"
               }
             }
           }
@@ -148,8 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6935a76e6cc362e1",
+  "active": "0efaf62e0fe75552",
   "lastOpenFiles": [
+    "Sides/Burgers",
+    "Mains/Curry/Sweet potato & peanut curry.md",
+    "Sides/Burgers/Prawn & salmon burgers with spicy mayo.md",
+    "Snacks/Brownies/CLASSIC GOOEY CADBURY BOURNVILLE BROWNIES.md",
+    "Mains/Curry",
+    "Snacks/Cookies/Cadbury Chocolate Cookies.md",
+    "01-06-2024.md",
+    "Snacks/Cookies/Classic Drop Cookies.md",
     "Exported/Classic Drop Cookies.pdf",
     "Exported",
     "Mains/Pakoras/Cauliflower Pakoras.md",
@@ -170,7 +178,6 @@
     "Files",
     "New folder",
     "Snacks/Cakes/Original Plum Torte.md",
-    "Snacks/Cookies/Classic Drop Cookies.md",
     "Sides/Hot Dogs/Hot Honey–Mustard Firecracker Hot Dogs.md",
     "Dinner/Dumplings/Collard greens with cornmeal dumplings.md",
     "Sides/Salads/Pancakes/Mrs Hudson's Pancake Recipe.md",
@@ -179,14 +186,7 @@
     "Snacks/Crinkles/Chocolate Crinkles.md",
     "Snacks/Crinkles/Citrus Crinkles.md",
     "Snacks/Crinkles",
-    "Classic.md",
-    "().md",
     "Dinner/Tofu",
-    "Sides/Hot Dogs",
-    "Snacks/Biscuits",
-    "Untitled 1.md",
-    "Sides/Salads/Pasta Salad.md",
-    "Snacks/Biscuits/Honey & Herb Biscuits.md",
     "Untitled 1.canvas"
   ]
 }
