@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "8f54771fd9d32d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "b20a7e22b418ffe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6935a76e6cc362e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/Cookies/Classic Drop Cookies.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6978c7d6f172c8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a02528e936467a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b21e1d51b792d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad2faaa4f524ba1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#cookie",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec1cdf090b7bc486",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d970e1aa35e29558",
+    "type": "split",
+    "children": [
+      {
+        "id": "0589be8a422526ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5f6a3e8f727590",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Snacks/Cookies/Classic Drop Cookies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64c1dc0868d46373",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Snacks/Cookies/Classic Drop Cookies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbb9243bec705859",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30fbe82e48a2a123",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Snacks/Cookies/Classic Drop Cookies.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6935a76e6cc362e1",
+  "lastOpenFiles": [
+    "Exported/Classic Drop Cookies.pdf",
+    "Exported",
+    "Mains/Pakoras/Cauliflower Pakoras.md",
+    "28-05-2024.md",
+    "Sites.md",
+    "Files/14-Allergens 16Nov21.pdf",
+    "Dessert/Cinnamon Rolls.md",
+    "Dessert/Chocolate Lasagna.md",
+    "Tag Guide.md",
+    "Sides/Soup/Classic Minestrone.md",
+    "Dessert",
+    "_Templates/Untitled.md",
+    "Untitled.canvas",
+    "Snacks/Cookies/Peanut Butter Cookies.md",
+    "Sides/Soup",
+    "Snacks/Cookies/Oatmeal Cookies.md",
+    "Substitute list.md",
+    "Files",
+    "New folder",
+    "Snacks/Cakes/Original Plum Torte.md",
+    "Snacks/Cookies/Classic Drop Cookies.md",
+    "Sides/Hot Dogs/Hot Honey–Mustard Firecracker Hot Dogs.md",
+    "Dinner/Dumplings/Collard greens with cornmeal dumplings.md",
+    "Sides/Salads/Pancakes/Mrs Hudson's Pancake Recipe.md",
+    "Snacks/Coffee Cakes/Chocolate-Sour Cream Coffee Cake.md",
+    "Snacks/Brownies/Chocolate Marshmallow Brownies.md",
+    "Snacks/Crinkles/Chocolate Crinkles.md",
+    "Snacks/Crinkles/Citrus Crinkles.md",
+    "Snacks/Crinkles",
+    "Classic.md",
+    "().md",
+    "Dinner/Tofu",
+    "Sides/Hot Dogs",
+    "Snacks/Biscuits",
+    "Untitled 1.md",
+    "Sides/Salads/Pasta Salad.md",
+    "Snacks/Biscuits/Honey & Herb Biscuits.md",
+    "Untitled 1.canvas"
+  ]
+}
