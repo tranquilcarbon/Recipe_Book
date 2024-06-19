@@ -43,5 +43,7 @@
 
 
 ## Alternative Recipes or implementations
+# Storage Instructions
+[[Storage Instructions - Brownies]]
 
 # Notes

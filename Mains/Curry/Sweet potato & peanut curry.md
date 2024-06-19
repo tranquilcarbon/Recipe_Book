@@ -1,5 +1,5 @@
 # Tags
-#Vegetarian #Vegan #Gluten-Free #Curry 
+#Vegetarian #Vegan #Gluten-Free #Curry #Good_Food 
 
 - **Author**: Elena Silcock
 - Source: https://www.bbcgoodfood.com/recipes/satay-sweet-potato-curry
@@ -52,5 +52,5 @@ This tasty, budget-friendly vegan curry is perfect for an easy family dinner. Wi
 
 # Goes Well With
 [[Prawn & salmon burgers with spicy mayo]]
-Sausage sandwich with pesto mash
-Spinach & courgette lasagne
+[[Sausage sandwich with pesto mash]]
+[[Spinach & courgette lasagne]]

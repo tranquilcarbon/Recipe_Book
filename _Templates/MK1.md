@@ -26,4 +26,8 @@
 
 ## Alternative Recipes or implementations
 
+## Goes Well With
+
+# Storage Instructions
+
 # Notes

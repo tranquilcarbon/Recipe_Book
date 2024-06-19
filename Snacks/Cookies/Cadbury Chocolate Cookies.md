@@ -59,4 +59,6 @@ Sugars 14.9 g
 
 ## Alternative Recipes or implementations
 
+# Storage Instructions
+[[Storage Instructions - Cookies]]
 # Notes

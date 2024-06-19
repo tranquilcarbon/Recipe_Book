@@ -56,4 +56,7 @@ Another classic recipe. Instead of pressing with a fork, you can also press a ch
 
 ## Alternative Recipes or implementations
 
+# Storage Instructions
+[[Storage Instructions - Cookies]]
+
 # Notes

@@ -40,4 +40,7 @@ N/A
 8. Enjoy a delicious slice… mmm!
 # Alternative Recipes or implementations
 
+# Storage Instructions
+[[Storage Instructions - Brownies]]
+
 ### Notes

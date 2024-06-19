@@ -1,5 +1,5 @@
 # Tags
-#PrawnSalmonBurgers #Healthy #Omega3Rich #Quick #Seafood #BBQ #SpicyMayo #FoodProcessor #ChilliSauce #SummerDishes
+#PrawnSalmonBurgers #Healthy #Omega3Rich #Quick #Seafood #BBQ #SpicyMayo #FoodProcessor #ChilliSauce #SummerDishes #Good_Food 
 # Info
 # Source
 https://www.bbcgoodfood.com/recipes/prawn-salmon-burgers-spicy-mayo
@@ -35,3 +35,5 @@ Serves 4
 1. Briefly blitz half the prawns, half the salmon, the spring onions, lemon zest and half the coriander in a food processor until it forms a coarse paste. Tip into a bowl, stir in the rest of the prawns and salmon, season well and shape into four burgers. Chill for 10 min
 2. Mix the mayo and chilli sauce together in a small bowl, season and add some lemon juice to taste. Mix the lettuce with the cucumber, dress with a little of the remaining lemon juice and 1 tsp olive oil, then set aside
 3. Heat the remaining oil in a large frying pan and fry the burgers for 3-4 mins each side or until they have a nice crust and the fish is cooked through. Serve with the salad on the side or in toasted burger buns, if you like, with a good dollop of the spicy mayo
+## Goes Well with:
+[[Sausage sandwich with pesto mash]]

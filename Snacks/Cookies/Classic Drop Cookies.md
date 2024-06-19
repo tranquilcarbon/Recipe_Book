@@ -54,6 +54,9 @@ Other add-ins I recommend, depending on your tastes:
 
 ## Alternative Recipes or implementations
 
+# Storage Instructions
+[[Storage Instructions - Cookies]]
+
 # Notes
 - If you want to prevent the bottoms from getting too crispy, or if your baking sheet is just old, line it with aluminum foil.
 - It's hard to go wrong with more vanilla. When adding vanilla extract to the mix, overfill the measuring spoon until it flows over.
