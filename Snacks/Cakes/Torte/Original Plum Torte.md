@@ -84,3 +84,6 @@ _Used my pie plate because my springform pan was nowhere to be found. - Kelleryj
 _A 9-inch pan gives greater height and moisture to the tart than a 10-inch pan. - J. David Nelson_
 ### Notes
 To freeze, double-wrap the torte in foil, place in a plastic bag and seal.
+
+
+[[Storage Instructions - Cakes]]

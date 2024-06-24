@@ -26,7 +26,6 @@ Another classic recipe. Instead of pressing with a fork, you can also press a ch
 - Nuts (Peanut Butter)
 - Butter (Milk, Can probably be substituted with Spreads / Vegan Milk. Must try at some point!)
 - eggs
-[[Substitute list]]
 
 # Ingredients
 1/2 cup granulated sugar  
