@@ -4,10 +4,11 @@
 #Cookies #Baking #Smarties 
 
 # Description
-
+Have some fun making these delicious SMARTIES® Oat Cookies! Lightly sweet with a hint of cinnamon, fluffy and soft in the middle! They don't require special equipment and are super simple to make so the whole family can get involved!
 # Information
 ## Source
-
+https://www.smarties.co.uk/recipes/smartiesr-oat-cookies
+![[Smarties Oat Cookies.png]]
 ## Time
 #### Prep Time
 
@@ -16,7 +17,7 @@
 #### Total Time
 60 Minutes
 ### Servings
-
+16
 ### Nutritional Information
 - Energy:
 	- 567kJ
@@ -56,11 +57,6 @@
 6. Divide the cookie dough mixture into 16 portions using your hands to roll each one into a ball.
 7. Place balls of cookie dough onto lined baking trays and bake for 12-14 minutes.
 8. As soon as they come out of the oven, press Smarties into the top of each cookie. Leave to cool for at least 5 minutes on the baking trays before moving to wire racks to cool fully.
-# Storage Instructions
-According to Copilot, a safe guess would be:
-- that they can be stored in a air tight container for approximately a week.
-- If refrigerated, they can be stored for over two weeks.
-- If frozen, they can be stored for a month or longer.
 ## Alternative Recipes or implementations
 
 # Storage Instructions

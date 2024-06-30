@@ -8,6 +8,7 @@ Try these simple cupcakes and have fun decorating with delicious Aero® Melts. T
 # Information
 ## Source
 https://www.aerochocolate.co.uk/recipes/aeror-cupcakes
+![[Aero Cupcakes.png]]
 ## Time
 #### Prep Time
 

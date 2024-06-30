@@ -2,6 +2,8 @@
 The invention of AI, (More specifically, LLM's) has made converting these recipes to easily accessible markdown easier. 
 It is worth noting that It is important to make sure to verify it.
 
+I tried to use recipes from BBC good food.
+
 # OpenAI ChatGPT
 Didn't work. Gave message `I'm sorry for the inconvenience, but I'm unable to directly access or retrieve information from specific URLs. However, if you can provide the main details of the recipe, I'd be happy to assist you in converting them into raw Markdown format.
 # Bing Copilot

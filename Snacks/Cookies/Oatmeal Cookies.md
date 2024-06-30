@@ -7,6 +7,7 @@ Base recipe for any kind of oatmeal cookie.
 # Information
 ## Source
 https://felinewasteland.neocities.org/recipes/cookies
+![[FelineWasteland Cookies.png]]
 ## Time
 #### Prep Time
 15 Minutes

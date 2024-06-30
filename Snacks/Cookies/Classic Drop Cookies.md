@@ -7,6 +7,7 @@ Base recipe for any kind of drop cookie, including traditional chocolate chip.
 # Information
 ## Source
 https://felinewasteland.neocities.org/recipes/cookies
+![[FelineWasteland Cookies.png]]
 ## Time
 #### Prep Time
 15 Minutes
@@ -15,19 +16,32 @@ https://felinewasteland.neocities.org/recipes/cookies
 #### Total Time
 
 ### Servings
-3 ~ 4 Dozen
+3 ~ 4 Dozen (36 -  48 Cookies in total)
 
 ### Nutritional Information
 
 # Ingredients
-3/4 cup granulated sugar  
-3/4 cup brown sugar  
-1 cup (2 sticks) butter, melted  
-1 tsp vanilla extract  
+3/4 cup (180g) granulated sugar  
+3/4 cup (180g) brown sugar  
+1 cup (2 sticks, 226.8g) butter, melted  
+1 tsp (5.91ml) vanilla extract 
 2 eggs  
-1 tsp baking soda  
-1 tsp salt  
-2 1/4 cups flour
+1 tsp (4.08g) baking soda  
+1 tsp (7.11g) salt  
+2 1/4 (62g) cups flour
+
+# Pricing
+- Silver Spoon Granulated Sugar (2kg) - £2.45
+- ASDA Light Brown Sugar (500g) - £1.80
+- ASDA British Unsalted Butter (250g) - £1.69
+- ASDA Extra Special Madagascan Vanilla Extract (60ml) - £1.40
+- ASDA 6 Medium Free Range Eggs - £1.50
+- BAKE by ASDA Bicarbonate of Soda (200g) - £0.65
+- COOK by ASDA Sea Salt Grinder (200g) - £0.80 OR ASDA Table Salt (750g) - £0.65
+£10.29 Total (£0.28 - £0.21 per cookie)
+
+**This only counts for basic ingredients, below is a price list for each type:**
+
 ## Substitutions
 For classic chocolate chip, use 2 to 2 ½ cups of semi-sweet chocolate chips. Use this measurement for any "single chip" cookie type. Semi-sweet is recommended over milk chocolate to offset some of the sweetness of the cookie itself.
 

@@ -8,7 +8,8 @@ Another classic recipe. Instead of pressing with a fork, you can also press a ch
 
 # Information
 ## Source
-
+https://felinewasteland.neocities.org/recipes/cookies#peanutbutter
+![[FelineWasteland Cookies.png]]
 ## Time
 #### Prep Time
 20 Minutes

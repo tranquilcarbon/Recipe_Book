@@ -9,6 +9,7 @@ N/A
 # Information
 ## Source
 https://www.cadbury.co.uk/recipes/cadbury-chocolate-cookies-427128/
+![[Cadbury Chocolate Cookies.png]]
 ## Time
 #### Prep Time
 20 Minutes
@@ -41,7 +42,7 @@ Sugars 14.9 g
 - 1 tsp vanilla
 - 1 tsp baking powder
 - 1 egg
-- 100-200 g Cadbury Bournville  or Cadbury White
+- 100-200 g Cadbury Bournville  or Cadbury White (Bar form)
 
 ## Substitutions / Optional
 

@@ -20,6 +20,8 @@
 
 # Ingredients
 
+## Pricing
+
 ## Substitutions / Optional
 
 # Directions
